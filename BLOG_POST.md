@@ -1,4 +1,3 @@
-# pytorch-dataloading
 # Training ResNet18 on Document Classification: A Complete PyTorch Guide
 
 ## Introduction
